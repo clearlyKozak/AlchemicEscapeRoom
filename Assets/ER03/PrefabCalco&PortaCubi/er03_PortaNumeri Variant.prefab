@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8361150455364800653
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1097472742, guid: 438dd6efc826b0442b3ff4273085eb5c, type: 3}
+      propertyPath: m_TagString
+      value: er03_Portanumeri1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1361873402, guid: 438dd6efc826b0442b3ff4273085eb5c, type: 3}
+      propertyPath: m_TagString
+      value: er03_Portanumeri7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638137043, guid: 438dd6efc826b0442b3ff4273085eb5c, type: 3}
+      propertyPath: m_TagString
+      value: er03_Portanumeri0
+      objectReference: {fileID: 0}
+    - target: {fileID: 108616160825512398, guid: 438dd6efc826b0442b3ff4273085eb5c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 108616160825512398, guid: 438dd6efc826b0442b3ff4273085eb5c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.7903852
+      objectReference: {fileID: 0}
+    - target: {fileID: 108616160825512398, guid: 438dd6efc826b0442b3ff4273085eb5c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6855891
+      objectReference: {fileID: 0}
+    - target: {fileID: 108616160825512398, guid: 438dd6efc826b0442b3ff4273085eb5c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.1228652
+      objectReference: {fileID: 0}
+    - target: {fileID: 108616160825512398, guid: 438dd6efc826b0442b3ff4273085eb5c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 108616160825512398, guid: 438dd6efc826b0442b3ff4273085eb5c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 108616160825512398, guid: 438dd6efc826b0442b3ff4273085eb5c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 108616160825512398, guid: 438dd6efc826b0442b3ff4273085eb5c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 108616160825512398, guid: 438dd6efc826b0442b3ff4273085eb5c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 108616160825512398, guid: 438dd6efc826b0442b3ff4273085eb5c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 108616160825512398, guid: 438dd6efc826b0442b3ff4273085eb5c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 777488303857290100, guid: 438dd6efc826b0442b3ff4273085eb5c,
+        type: 3}
+      propertyPath: m_Name
+      value: er03_PortaNumeri
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282062504201087649, guid: 438dd6efc826b0442b3ff4273085eb5c,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43d7e69926dad5f469df34a2775199a6, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 438dd6efc826b0442b3ff4273085eb5c, type: 3}
+--- !u!1 &9134135072083024889 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 777488303857290100, guid: 438dd6efc826b0442b3ff4273085eb5c,
+    type: 3}
+  m_PrefabInstance: {fileID: 8361150455364800653}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1720422630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9134135072083024889}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 584c0c3ee52b6a84e9861e65365b7aea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numeriPlayer: 
+  listsAreEqual: 0
+  forceField: {fileID: 0}

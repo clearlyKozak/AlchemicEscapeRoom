@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - triggerporta
+  - keyhole
+  - FireableArrow
+  - teschio
+  - freccia
+  - er03_Portanumeri0
+  - er03_Portanumeri1
+  - er03_Portanumeri7
+  - er03_Cauldron
+  - triggerporta2
+  - er03_BlackBoard
+  - BlackBoard
+  - er03triggerporta
+  - er03triggerporta3
+  - er03triggerporta2
+  - Cauldron
+  - er03_PortaNumeri
+  - er03_Arrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Muro scorrevole
+  - Water
+  - UI
+  - Travi
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
